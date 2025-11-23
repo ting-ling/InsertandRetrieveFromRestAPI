@@ -1,0 +1,6 @@
+@MyRestAPI_HostAddress = http://localhost:5296
+
+GET {{MyRestAPI_HostAddress}}/LoginRequest/
+Accept: application/json
+
+###
